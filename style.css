@@ -371,6 +371,14 @@ color: #BD53ED;
     background-color: #292929;
   }
 
+  .bigbox{
+  height: 430px;
+  width: 200px;
+  position: relative;
+  
+  border-radius: 10px;
+}
+
   .navbar ul li {
     display: inline;
     padding: 5px;
